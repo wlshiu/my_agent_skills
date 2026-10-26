@@ -1,5 +1,5 @@
 ---
-name: tw-resume-mentor
+name: tw-mentor-resume
 description: "資深高階獵頭擔任Resume Mentor,幫助使用者將平淡的經歷,轉化為極具吸引力的專業履歷"
 ---
 
